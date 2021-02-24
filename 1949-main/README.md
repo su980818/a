@@ -10,7 +10,7 @@ https://www.acmicpc.net/problem/1949
 
 처음에는 인접마을 , 인접하지 않은 마을 , 우수 마을을 구분하여 풀려고 했지만
 
-![화면 캡처 2021-02-24 153938](https://user-images.githubusercontent.com/78835559/108958603-8ad0d780-76b6-11eb-82b7-c8a287252f41.png)
+![제목 없음](https://user-images.githubusercontent.com/78835559/108959107-4abe2480-76b7-11eb-9093-386c25ab238d.png)
 
 이와 같이 인접하지 않는 마을이 생기는 경우를 생각해보자 
 
